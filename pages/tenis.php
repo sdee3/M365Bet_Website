@@ -15,6 +15,6 @@
    <body style = "font-family: 'PT Sans', sans-serif;">
 
 
-
+     <?php include_once('../includes/footer.php'); ?>
   </body>
 </html>

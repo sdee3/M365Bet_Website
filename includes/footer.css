@@ -1,16 +1,6 @@
-html {
-    position: relative;
-    min-height: 100%;
-}
-
-body {
-    margin: 0 0 250px; /* bottom = footer height */
-    padding: 25px;
-}
-
 .footer {
 	background: #21313F;
-	position: absolute;
+	position: relative;
   left: 0;
   bottom: 0;
   width: 100%;

@@ -9,14 +9,13 @@
       $currentPage = 'odgovorno_kladjenje';
       include_once('../includes/layout.php');
       include_once('../includes/navbar.php');
-      include_once('../includes/footer.php');
   ?>
 
    <body style = "font-family: 'PT Sans', sans-serif;">
 
      <div class="container container-fluid" style="margin-top:6em; margin-bottom: 6em">
 
-       <div class="page-header"><h1>ODGOVORNO KLAÐENJE</h1></div>
+       <div class="page-header"><h1><span class="badge">18+</span> ODGOVORNO KLAÐENJE</h1></div>
 
        <div class="panel panel-warning">
         	<ul class="list-group">
@@ -93,6 +92,6 @@
       		</p>
       </div>
 
-
+      <?php include_once('../includes/footer.php'); ?>
   </body>
 </html>

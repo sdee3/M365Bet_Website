@@ -10,7 +10,6 @@
       include_once('../includes/layout.php');
       include_once('../includes/navbar.php');
       include_once('../db/connectDb.php');
-      include_once('../includes/footer.php');
   ?>
 
    <body style = "font-family: 'PT Sans', sans-serif;">
@@ -65,6 +64,8 @@
 
      </table>
    </div>
+
+   <?php include_once('../includes/footer.php'); ?>
 
   </body>
 </html>

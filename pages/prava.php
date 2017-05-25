@@ -9,13 +9,12 @@
       $currentPage = 'prava';
       include_once('../includes/layout.php');
       include_once('../includes/navbar.php');
-      include_once('../includes/footer.php');
   ?>
 
    <body style = "font-family: 'PT Sans', sans-serif;">
 
      <div class="container container-fluid" style="margin-top: 6em; margin-bottom: 6em">
-        <p>Ovim dokumentom pravno uređujemo položaj novoosnovane kompanije Mokranjatzz365Bet, kao i registraciju, Uslove kori&scaron;ćenja, kao i Odricanja od odgovornosti. Napominjemo da odredbe Uslova kori&scaron;ćenja važe i za oblike obavljanja privredne delatnosti koji su na&scaron;a konkurencija i posluju u skladu sa posebnim uslovima.</p>
+        <p><span class="label label-danger">Upozoreni ste!</span> Ovim dokumentom pravno uređujemo položaj novoosnovane kompanije Mokranjatzz365Bet, kao i registraciju, Uslove kori&scaron;ćenja, kao i Odricanja od odgovornosti. Napominjemo da odredbe Uslova kori&scaron;ćenja važe i za oblike obavljanja privredne delatnosti koji su na&scaron;a konkurencija i posluju u skladu sa posebnim uslovima.</p>
       	<p><strong>Položaj kompanije</strong></p>
       	<p><strong>Član 1.</strong></p>
       	<p>Mokranjatzz365Bet je institucija koja obavlja svoju delatnost u cilju sticanja dobiti. Na&scaron;a kompetentna platforma za cilj ima reformu kladioničarskog trži&scaron;ta u Srbiji i jugoistočnoj Evropi, nad kojim suvereno vlada Mozzart.</p>
@@ -42,6 +41,8 @@
       	<li class="list-group-item"><p>Dokument se &scaron;tampa u tri (3) kopije, od kojih jedan ide izvr&scaron;nom direktoru, drugi ide knjigovođi, a treći u arhivu Novog Sada, kod nadležnog glavnog arhivatora Čvarkov Đorđa.</p></li>
       	</ol>
   	</div>
+
+    <?php include_once('../includes/footer.php'); ?>
 
   </body>
 </html>

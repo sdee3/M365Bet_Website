@@ -9,14 +9,13 @@
       $currentPage = 'about';
       include_once('../includes/layout.php');
       include_once('../includes/navbar.php');
-      include_once('../includes/footer.php');
   ?>
 
    <body style = "font-family: 'PT Sans', sans-serif;">
 
     <div class="container container fluid" style = "margin-top: 6em; margin-bottom: 6em">
 
-      <div class="page-header"><h1 style="text-align: center; ">Kako je nastao Mokranjatzz (autorski tekst)</h1></div>
+      <div class="page-header"><h1 style="text-align: center; "><span class="glyphicon glyphicon-lamp"></span> Kako je nastao Mokranjatzz (autorski tekst)</h1></div>
 
       <img class = "img-responsive thumbnail" style="margin: 0 auto;" src="../img/betting.jpg" alt="Lista kladjenje">
       <br><br><br>
@@ -114,6 +113,8 @@
   	</div>
 
   </div>
+
+  <?php include_once('../includes/footer.php'); ?>
 
   </body>
 </html>
