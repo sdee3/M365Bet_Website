@@ -15,6 +15,14 @@
 
      <div class="container" style="margin-top: 6em; margin-bottom: 6em;">
 
+       <h1 style="text-align: center">Mokranjatzz 365 Kino: Dajte nam dva broja i već ste pobedili!</h1>
+       <br>
+       <p>Grčki kino (gr. Ελληνικό κίνο) je nastao davne 625. p.n.e kao inicijativa Sofokla da se ukine monotonija nakon Slagalice, koja je,
+       složićete se sa nama, dosadila i Atili Biču Božijem.<br>
+       U ovoj igri nema nameštaljki, u <strong>ovoj</strong> igri nema nesrećnih ishoda, kod Mokranjtzz-a <strong>nema gubitnika!</strong><br>
+       <blockquote class="blockquote"><i>Είναι καιρός να εμφανιστεί ένας νικητής!</i></p></blockquote>
+       <br><hr><br>
+
        <div class="container container-fluid">
          <p>Poštovani posetioče, ova igra ili funkcija Web portala Mokranjatzz kladionice je trenutno u izradi. Naš tim stručnjaka aktivno
          radi kako bi doneo sveže novine u sistem najperspektivnije kladionice do sad.</p>

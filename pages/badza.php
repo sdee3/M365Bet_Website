@@ -20,7 +20,7 @@
            <img class="img-responsive thumbnail" src="../img/badza.jpg" alt="Badza">
          </div>
          <div class="col-md-6">
-          <h3><span class="glyphicon glyphicon-king"></span>  Dobrodošli na najnoviju igru - Pogodite Badžinu odevnu kombinaciju!  <span class="glyphicon glyphicon-king"></span></h3>
+          <h2>Dobrodošli na najnoviju igru <br><span class="glyphicon glyphicon-king"></span> <u>Pogodite Badžinu odevnu kombinaciju!</u> <span class="glyphicon glyphicon-king"></span></h2>
           <br>
           <p>U ovoj ekskluzivi, Vaš cilj je da srušite sistem koji je treniran na pravim, istinitim podacima o D. Badži! Da li imate ono
           što je potrebno da uspešno pogodite odevnu kombinaciju D. Badže? Ne časite časa, već se spremite za najintrigantnije kvote do sad!</p>

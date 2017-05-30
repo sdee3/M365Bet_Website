@@ -11,7 +11,7 @@
     <div class="container container-fluid" style="margin-top: 6em; margin-bottom: 6em">
 
       <h1 style="text-align: center">Dobrodo&scaron;li na Mokranjatzz!</h1>
-      <h3 style="text-align: center">Mokranjatzz365Bet - jer &zcaron;ivot je igra, a takođe i ne radimo 29. februara!</h2>
+      <h3 style="text-align: center">Mokranjatzz 365 Bet - jer &zcaron;ivot je igra, a i ne radimo 29. februara!</h2>
 
       <br/><hr/><br/>
 
@@ -20,8 +20,10 @@
        <div class="col-md-6">
         <div class="panel" style="text-align: center">
          <div style="text-align: center"><img class="img-responsive thumbnail" alt="Stevan Stojanovic Mokranjac" src="http://edukacija.rs/wp-content/uploads/2015/09/mokranjac-e1443441886343.jpg"></div>
-         <h3>"<i>Život je melodična igra</i>"</h3>
-         <h3>1856 - 1914</h3>
+         <div class="panel-body">
+           <h4><i>"Život je melodična igra."</i></h4>
+           <h4>MDCCCLVI - MCMXIV</h4>
+         </div>
         </div>
         </div>
 
@@ -49,8 +51,10 @@
           <div class="panel-heading">
             <h3 style="color: white">Mokranjatzz365Bet Insajder</h3>
           </div>
+          <div class="panel-body">
             <p>Upoznajte se sa esencijom Mokranjatzz kladionice - ekskluziva koja pomaže pri donošenju odluka!</p>
             <p>Aktivan od 2016. godine i sa skoro stopostotnom tačnošću, Mokranjatzz365Bet insajder je dodatak koji nijedna <strong>profesionalna</strong> kladionica nema!</p>
+          </div>
         </div>
        </div>
 
@@ -59,8 +63,10 @@
            <div class="panel-heading">
              <h3 style="color: white">Poslednje upozorenje!</h3>
            </div>
+           <div class="panel-body">
            <p>Klađenje nije za maloletnike.</p>
-           <p>Pridržavajte se elementarnih pravila Mokranjatzz kladionice, jer je dopuštanje klađenje maloletnim licima krivično delo!</p>
+           <p>Pridržavajte se elementarnih pravila Mokranjatzz kladionice, jer je dopuštanje klađenja maloletnim licima krivično delo <strong>kažnjivo zakonom Republike Srbije</strong>!</p>
+          </div>
          </div>
        </div>
 

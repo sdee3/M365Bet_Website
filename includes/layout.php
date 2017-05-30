@@ -11,6 +11,17 @@
     <link rel="stylesheet" href="https://bootswatch.com/paper/bootstrap.min.css">
     <link rel="stylesheet" href="../includes/footer.css">
 
+    <style media="screen" type ="text/css">
+      h1{
+         word-wrap: break-word;
+         -webkit-hyphens: auto;
+         -moz-hyphens: auto;
+         -ms-hyphens: auto;
+         -o-hyphens: auto;
+         hyphens: auto;
+      }
+    </style>
+
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="../favicon.ico">
 

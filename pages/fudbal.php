@@ -12,24 +12,31 @@
       include_once('../db/connectDb.php');
   ?>
 
-   <body style = "font-family: 'PT Sans', sans-serif;">
+<body style = "font-family: 'PT Sans', sans-serif;">
 
-     <div class ="container container-fluid" style="margin-top:6em; margin-bottom:6em">
+  <div class ="container container-fluid" style="margin-top:6em; margin-bottom:6em">
+
+    <h1 style="text-align: center">Fudbal - Najsvežije kvote na Mokranjatzz Bet sistemu!<br><small>Poslednji put ažurirano: 8.6.2016</small></h1>
+    <br>
+
+    <p>Da li će taj Brentford probiti sebi plasman u viši rang takmičenja? Da li će FK Stublenica doći do pobede u gostima iako im forma van
+    kuće nije na strani još od akvizicije čuvenih investitora iz Pecke?<br>Na Vama je da pogodite!</p>
+    <br><hr><br>
 
    <form class="form-inline" style="text-align: center;">
     <div class="form-group">
-      <label for="sifra">Šifra utakmice</label>
+      <label for="sifra">Šifra utakmice: </label>
       <input type="text" class="form-control" id="sifra" placeholder="1001, 1005,...">
     </div>
     <div class="form-group">
-      <label for="tip">Tip</label>
+      <label for="tip">Tip: </label>
       <input type="text" class="form-control" id="tip" placeholder="1, X, 2...">
     </div>
     <div class="form-group">
-      <label for="iznos">Iznos</label>
+      <label for="iznos">Iznos: </label>
       <input type="text" class="form-control" id="iznos" placeholder="RSD">
     </div>
-    <button type="submit" class="btn btn-default">Nažmnji!</button>
+    <button type="submit" class="btn btn-default">Nažmnji (ne radi)!</button>
   </form>
 
   <br/><hr><br>
