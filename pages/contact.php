@@ -25,6 +25,12 @@
        Hvala Vam na poverenju!</p>
        <br><hr><br>
 
+       <div style="width:400px; height: 270px; text-align:center; margin: auto;">
+         <?php include_once('../includes/carousel.php'); ?>
+       </div>
+
+       <br><hr><br>
+
       <div class="row">
      		<div class="col-md-offset-1 col-md-4">
          			<h3 style="text-align:center;">Imate nedoumice, pitanja, sugestije? Javite nam se preko forme ispod!</h3>

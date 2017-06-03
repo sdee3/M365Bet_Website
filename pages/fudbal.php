@@ -9,7 +9,6 @@
       $currentPage = 'fudbal';
       include_once('../includes/layout.php');
       include_once('../includes/navbar.php');
-      include_once('../db/connectDb.php');
   ?>
 
 <body style = "font-family: 'PT Sans', sans-serif;">
@@ -19,9 +18,13 @@
     <h1 style="text-align: center">Fudbal - Najsvežije kvote na Mokranjatzz Bet sistemu!<br><small>Poslednji put ažurirano: 8.6.2016</small></h1>
     <br>
 
-    <p>Da li će taj Brentford probiti sebi plasman u viši rang takmičenja? Da li će FK Stublenica doći do pobede u gostima iako im forma van
+    <p>Da li će taj Brentford probiti sebi plasman u viši rang takmičenja? Da li će FK Rubibreza doći do pobede u gostima iako im forma van
     kuće nije na strani još od akvizicije čuvenih investitora iz Pecke?<br>Na Vama je da pogodite!</p>
+    <p>Ispod ovog bloka teksta nalazi se kompletna lista svih utakmica koje Mokranjatzz365Bet ima u ekskluzivnoj ponudi za Vas!
+    Ukoliko ne vidite ništa, reč je o ili neuspešnoj konekciji sa našom centralnom bazom, ili trenutnom ažuriranju liste.</p>
     <br><hr><br>
+
+    <?php include_once('../db/connectDb.php'); ?>
 
    <form class="form-inline" style="text-align: center;">
     <div class="form-group">

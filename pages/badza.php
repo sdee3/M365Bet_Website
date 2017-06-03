@@ -29,13 +29,15 @@
 
        <br><hr><br>
 
-       <div class="container container-fluid">
-         <p>Poštovani posetioče, ova igra ili funkcija Web portala Mokranjatzz kladionice je trenutno u izradi. Naš tim stručnjaka aktivno
-         radi kako bi doneo sveže novine u sistem najperspektivnije kladionice do sad.</p>
-         <p>U međuvremenu, okušajte svoju sreću na ekskluzivnoj Lazarevačkoj drugoj ligi (<a href="../pages/fudbal.php" target="_blank">fudbal</a>), gde
-         Vas čeka mnogo toga!</p>
-         <p>Hvala na razumevanju. Vaš Mokranjatzz365Bet.</p>
-       </div>
+       <p>Naš tim stručnjaka trenutno radi na primeni najefektivnijih mogućih metodologija mašinskog učenja kako bismo zajedno doprineli kvalitetu ponude u ovoj veoma specifičnoj igri.
+       Uz aktivan monitoring našeg subjekta, verujemo da ćemo do 2018. godine uveliko početi sa distrubucijom kvota i lista za tekuću nedelju, jer precizna mašinska analiza zahteva pregršt podataka.</p>
+       <div class="progress">
+        <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="26" aria-valuemin="0" aria-valuemax="100" style="width: 26%">
+        </div>
+      </div>
+       <br><hr><br>
+
+       <?php include_once('../includes/nepostojeca_funkcija.php'); ?>
 
      </div>
 

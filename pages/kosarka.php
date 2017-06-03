@@ -17,21 +17,14 @@
 
        <h1 style="text-align: center">Mokranjatzz 365 Košarka: Najveći izbor utakmica do sad!</h1>
        <br>
-       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-         Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+       <p>Je li već došlo vreme da se gleda ko će osvojiti Evroligu? Mi konstantno tvrdimo kako je
+       CSKA najbolji tim zbog prodornog Teodosića, ali nam oponenti uporno govore da je Real za klasu bolji.
+       Koje je Vaše mišljenje? Vredi li odigrati koji tiket na <strong>Vaš</strong> omiljeni tim?</p>
 
        <img width="60%" style="display: block; margin: 0 auto;" class="img-responsive thumbnail" src="../img/basketball.jpg" alt="Kosarka Mokranjatzz Mokranjatzz365Bet">
        <br><br>
 
-       <div class="container container-fluid">
-         <p>Poštovani posetioče, ova igra ili funkcija Web portala Mokranjatzz kladionice je trenutno u izradi. Naš tim stručnjaka aktivno
-         radi kako bi doneo sveže novine u sistem najperspektivnije kladionice do sad.</p>
-         <p>U međuvremenu, okušajte svoju sreću na ekskluzivnoj Lazarevačkoj drugoj ligi (<a href="../pages/fudbal.php" target="_blank">fudbal</a>), gde
-         Vas čeka mnogo toga!</p>
-         <p>Hvala na razumevanju. Vaš Mokranjatzz365Bet.</p>
-       </div>
+       <?php include_once('../includes/nepostojeca_funkcija.php') ?>
 
      </div>
 
