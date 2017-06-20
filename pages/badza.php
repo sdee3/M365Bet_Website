@@ -31,11 +31,17 @@
 
        <p>Naš tim stručnjaka trenutno radi na primeni najefektivnijih mogućih metodologija mašinskog učenja kako bismo zajedno doprineli kvalitetu ponude u ovoj veoma specifičnoj igri.
        Uz aktivan monitoring našeg subjekta, verujemo da ćemo do 2018. godine uveliko početi sa distrubucijom kvota i lista za tekuću nedelju, jer precizna mašinska analiza zahteva pregršt podataka.</p>
-       <div class="progress">
+       <div class="progress" data-toggle="tooltip" data-placement="bottom" title="26%">
         <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="26" aria-valuemin="0" aria-valuemax="100" style="width: 26%">
         </div>
       </div>
        <br><hr><br>
+
+       <script type="text/javascript">
+         $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })         
+       </script>
 
        <?php include_once('../includes/nepostojeca_funkcija.php'); ?>
 
