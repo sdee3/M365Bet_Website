@@ -16,7 +16,7 @@
       <div class="row">
        <div class="col-md-6">
         <div class="panel" style="text-align: center">
-         <div style="text-align: center"><img class="img-responsive thumbnail" alt="Stevan Stojanovic Mokranjac" src="http://edukacija.rs/wp-content/uploads/2015/09/mokranjac-e1443441886343.jpg"></div>
+         <div style="text-align: center"><img class="img-responsive thumbnail" alt="Stevan Stojanovic Mokranjac" src="http://mokranjac.com/system/classes/show_image.php?path=images/slider/1418575690slide1web-informatix.jpg&nwidth=651&nheight=383"></div>
          <div class="panel-body">
            <h4><i>"Život je melodična igra."</i></h4>
            <h4>MDCCCLVI - MCMXIV</h4>
@@ -31,20 +31,12 @@
             <div class="panel-heading">
               <h3 style="color: white">Ranko Tips</h3>
             </div>
-            <div class="panel-body" style="text-align:center">
+            <div class="panel-body" width="100%">
               <p>S velikim ponosom predstavljamo nedavno sklopljeno partnerstvo sa nadaleko čuvenim tipsterom za kojim LUDI BALKAN! RANKO TIPS!</p>
               <p>Reč je o jedinki muškog roda koja ne ostavlja nikoga ravnodušnim! Evo jednog od njegovih najfamoznijih uspešnih tipova!</p>
-              <div id="fb-root"></div>
-               <script>(function(d, s, id) {
-                 var js, fjs = d.getElementsByTagName(s)[0];
-                 if (d.getElementById(id)) return;
-                 js = d.createElement(s); js.id = id;
-                 js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9";
-                 fjs.parentNode.insertBefore(js, fjs);
-               }(document, 'script', 'facebook-jssdk'));</script>
-              <div class="fb-post" data-href="https://www.facebook.com/rankotips/posts/1728869920680068:0" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/rankotips/posts/1728869920680068:0" class="fb-xfbml-parse-ignore"><p>(SKANDALOZNO) No&#x107;ni TIP
-              Bilo da ste usnili dubok san, ili da vas je &#x161;okirala neka vest na na&#x161;im precenjenim novinarskim...</p>Posted by <a href="https://www.facebook.com/rankotips/">Ranko Tips</a> on&nbsp;<a href="https://www.facebook.com/rankotips/posts/1728869920680068:0">Friday, January 15, 2016</a></blockquote></div>
-            </div>
+              <img class="img-responsive thumbnail" src="../img/radenko_tips.jpg" alt="Ranko Tips + Mokranjatzz Bet">
+              <p style="text-align: center"><a href="https://www.facebook.com/rankotips/" target="_blank">Ranko Tips Fan Page</a></p>
+              </div>
           </div>
          </div>
        </div>
@@ -58,7 +50,7 @@
             <h3 style="color: white">Mokranjatzz365Bet Insajder</h3>
           </div>
           <div class="panel-body">
-            <div style="text-align: center"><img src="../img/m365b_insajder.jpg" alt="Mokranjatzz Insajder"></div>
+            <div style="text-align: center"><img class="img-responsive thumbnail" width="100%" src="../img/m365b_insajder.jpg" alt="Mokranjatzz Insajder"></div>
             <p>Upoznajte se sa esencijom Mokranjatzz kladionice - ekskluziva koja pomaže pri donošenju odluka!</p>
             <p>Aktivan od 2016. godine i sa skoro stopostotnom tačnošću, Mokranjatzz365Bet insajder je dodatak koji nijedna <strong>profesionalna</strong> kladionica nema!</p>
           </div>
@@ -71,6 +63,7 @@
              <h3 style="text-align: center; color: white;">Upoznajte se sa pravilima!</h3>
            </div>
            <div class="panel-body">
+             <img class="img-responsive thumbnail" src="../img/rules.jpg" alt="Pravila Mokranjatzz Bet">
              <p>Mokranjatzz365Bet <strong>nije</strong> za maloletne osobe. Kliknite <a target="_blank" href="../pages/odgovorno_kladjenje.php">ovde</a> za više informacija o <strong>odgovornom klađenju</strong>.</p>
              <br/><br>
              <p>Pravila igre možete naći <a target="_blank" href="../pages/pravila_igre.php">ovde</a>.</p>

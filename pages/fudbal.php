@@ -26,26 +26,33 @@
 
     <?php include_once('../db/connectDb.php'); ?>
 
-   <form class="form-inline" style="text-align: center;">
-    <div class="form-group">
-      <label for="sifra">Šifra utakmice: </label>
-      <input type="text" class="form-control" id="sifra" placeholder="1001, 1005,...">
-    </div>
-    <div class="form-group">
-      <label for="tip">Tip: </label>
-      <input type="text" class="form-control" id="tip" placeholder="1, X, 2...">
-    </div>
-    <div class="form-group">
-      <label for="iznos">Iznos: </label>
-      <input type="text" class="form-control" id="iznos" placeholder="RSD">
-    </div>
-    <button type="submit" class="btn btn-default">Nažmnji (ne radi)!</button>
-  </form>
+     <form id="form" class="form-inline" style="text-align: center;">
+      <div class="form-group">
+        <label for="sifra">Šifra utakmice: </label>
+        <input type="text" class="form-control" id="sifra" placeholder="1001, 1005,...">
+      </div>
+      <div class="form-group">
+        <label for="tip">Tip: </label>
+        <input type="text" class="form-control" id="tip" placeholder="1, X, 2...">
+      </div>
+      <div class="form-group">
+        <label for="iznos">Iznos: </label>
+        <input type="text" class="form-control" id="iznos" placeholder="RSD">
+      </div>
+      <button id="submitbtn" type="button" class="btn btn-default" data-toggle="popover" data-placement="top" data-trigger="focus"
+      title="Ups!" data-content="Kao što piše, ova funkcija trenutno nije u mogućnosti.">Nažmnji (ne radi)!</button>
+     </form>
+
+     <script type="text/javascript">
+      // Select all elements with data-toggle="popover" in the document
+      $('[data-toggle="popover"]').popover();
+      // Select a specified element
+      $('#myPopover').popover();
+     </script>
 
   <br/><hr><br>
 
-       <table class="table table-hover">
-
+       <table class="table table-responsive table-hover">
          <tr>
           <th>Liga</th>
           <th>Šifra</th>
@@ -55,7 +62,6 @@
           <th>2</th>
           <th>Specijal</th>
         </tr>
-
            <?php
               $sql = "SELECT liga, sifra, utakmica, ki1, kix, ki2, specijal FROM listastara";
               $rezultat = mysqli_query($conn, $sql);
