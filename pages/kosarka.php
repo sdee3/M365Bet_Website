@@ -21,7 +21,7 @@
        CSKA najbolji tim zbog prodornog Teodosića, ali nam oponenti uporno govore da je Real za klasu bolji.
        Koje je Vaše mišljenje? Vredi li odigrati koji tiket na <strong>Vaš</strong> omiljeni tim?</p>
 
-       <img width="100%" style="display: block; margin: 0 auto;" class="img-responsive thumbnail" src="../img/basketball.jpg" alt="Kosarka Mokranjatzz Mokranjatzz365Bet">
+       <img width="60%" style="display: block; margin: 0 auto;" class="img-responsive thumbnail" src="../img/basketball.jpg" alt="Kosarka Mokranjatzz Mokranjatzz365Bet">
        <br><br>
 
        <?php include_once('../includes/nepostojeca_funkcija.php') ?>

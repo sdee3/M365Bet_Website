@@ -20,7 +20,7 @@
        <p>Jeste li se spremili za borbu za tron ATP rang liste u kojoj mesožder No1e neda Informeru ekskluzivnu izjavu? Onda se uz Mokranjatzz
        možete adekvatno pripremiti za najveće moguće dobitke!</p>
 
-      <img width="100%" style="display: block; margin: 0 auto;" class="img-responsive thumbnail" src="../img/tennis.jpg" alt="Tenis Mokranjatzz Mokranjatzz365Bet">
+      <img width="60%" style="display: block; margin: 0 auto;" class="img-responsive thumbnail" src="../img/tennis.jpg" alt="Tenis Mokranjatzz Mokranjatzz365Bet">
       <br><hr><br>
 
        <?php include_once('../includes/nepostojeca_funkcija.php') ?>

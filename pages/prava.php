@@ -14,7 +14,6 @@
    <body style = "font-family: 'PT Sans', sans-serif;">
 
      <div class="container container-fluid" style="margin-top: 6em; margin-bottom: 6em">
-       <h1 style="text-align: center">Prava i uslovi korišćenja</h1>
         <p><span class="label label-danger">Upozoreni ste!</span> Ovim dokumentom pravno uređujemo položaj novoosnovane kompanije Mokranjatzz365Bet, kao i registraciju, Uslove kori&scaron;ćenja, kao i Odricanja od odgovornosti. Napominjemo da odredbe Uslova kori&scaron;ćenja važe i za oblike obavljanja privredne delatnosti koji su na&scaron;a konkurencija i posluju u skladu sa posebnim uslovima.</p>
       	<p><strong>Položaj kompanije</strong></p>
       	<p><strong>Član 1.</strong></p>
